@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# 👋 Hi
+## 👋 Hi
 
 ### 🚀 GitHub 动态统计（实时刷新）
 ![GitHub 统计卡片](https://github-readme-stats.vercel.app/api?username=prehaloY&show_icons=true&theme=tokyonight&hide_border=true)
