@@ -1,4 +1,4 @@
-<img src="" alt="描述" width="100%"/>
+<img src="https://raw.githubusercontent.com/prehaloY/prehaloY/main/webwxgetmsgimg.gif" alt="描述" width="100%"/>
 
 
 ## 👋 Hi
